@@ -18,4 +18,4 @@ supplies to the ==L298N==.
 ## 6.The module about "Infrared Remote Control"
 >- The idea to control the intelligent car by use the ==Infrared Remote Control== appears. 
 
-**Let's expect the success of the intelligent car maked by me.**
+**Let's expect the success of the intelligent car made by me.**
